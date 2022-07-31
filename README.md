@@ -1,2 +1,2 @@
 # Cisp
-Make a minimum Lisp interpreter using Cpp within 200 lines.
+Using Cpp to create a minimum Lisp interpreter within 200 lines.
